@@ -1,0 +1,14 @@
+.principal-inicio {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    background-color: #CCFF90;
+    width: 100 vw;
+    
+}
+
+img{
+    width:400px ;
+}

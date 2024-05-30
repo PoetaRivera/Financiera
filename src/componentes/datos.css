@@ -1,0 +1,35 @@
+.datos {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0px 0px;
+    width: 100vh;
+}
+
+.datos-subtitulo {
+    height: 10px;
+    font-style: oblique;
+    font-size: x-large;
+}
+
+.datos-input {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    gap: 1.5rem;
+}
+
+/*aumenta el tamaño de los check radio 1.25*/
+.datos-input input {
+    width: 20px;
+    height: 20px;
+}
+
+.datos-input label {
+    margin-left: 2px;
+    margin-right: 2rem;
+}

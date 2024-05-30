@@ -1,0 +1,16 @@
+::placeholder {
+  color: var(--A200);
+  /* Cambia el color a tu preferencia */
+}
+.resultados {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.resultados-input {
+  font-size: large;
+  height: 40px;
+  font-style: italic;
+}
